@@ -29,3 +29,7 @@ For casual chit-chat with others using the framework:
 ## Contributing
 
 If you're interested in contributing to Tailwind CSS, please read our [contributing docs](https://github.com/tailwindcss/tailwindcss/blob/master/.github/CONTRIBUTING.md) **before submitting a pull request**.
+
+## Note
+
+See Setting_up_vuepress_with_tailwindcss_Igor_Irianto.png
